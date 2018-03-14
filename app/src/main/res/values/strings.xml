@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cttest</string>
+    <string name="checkout">Checkout</string>
+    <string name="add_to_cart">Add to Cart</string>
+
+    <string name="title_activity_second_activiy">Interstitial</string>
+    <string name="msg_welcome">Welcome to Admob. Click on the below button to launch the Interstitial ad.</string>
+    <string name="btn_fullscreen_ad">Show Interstitial Ad</string>
+    <string name="btn_rewarded_video">Show Rewarded Video Ad</string>
+
+
+    <!-- TODO - add your ad unit Ids -->
+    <!-- AdMob ad unit IDs -->
+    <string name="admob_app_id">ca-app-pub-3247017110536723~8391163940</string>
+    <string name="banner_home_footer">ca-app-pub-3247017110536723/3512697191</string>
+    <string name="interstitial_full_screen">ca-app-pub-3247017110536723/3456679263</string>
+    <string name="rewarded_video">ca-app-pub-3247017110536723/3756062166</string>
+
+    <string name="title_shop">Shop</string>
+    <string name="title_gifts">Gifts</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+</resources>
