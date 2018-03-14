@@ -20,6 +20,12 @@
         android:dividerHeight="1dp">
     </ListView>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="test text"
+        android:textColor="#ff00ff"/>
+
     <Button
         android:id="@+id/btnTest"
         android:layout_width="fill_parent"
